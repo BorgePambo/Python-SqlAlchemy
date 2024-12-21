@@ -1,0 +1,1001 @@
+EmpregadoID,Nome,Cargo,Departamento,Salario,DataContratacao
+4157,Pietro Oliveira,Supervisor,Recursos Humanos,18034.24,2020-06-10
+7169,Emanuella Pereira,Engenheiro,Vendas,9738.66,2016-12-31
+2551,Dr. Paulo Peixoto,Supervisor,Financeiro,18120.31,2015-08-19
+5344,Srta. Bruna Correia,Gerente,Vendas,4506.74,2024-01-30
+5909,Clarice Jesus,Analista,TI,10453.75,2016-12-05
+8495,Sra. Luiza Fernandes,Analista,Vendas,16476.04,2016-02-14
+3802,Davi Freitas,Assistente,Vendas,18334.58,2020-11-23
+2791,Ana Clara Ferreira,Engenheiro,Financeiro,11486.37,2022-10-19
+7760,Milena Nunes,Gerente,Engenharia,14594.69,2021-05-09
+8958,Agatha da Costa,Técnico,TI,8808.45,2019-08-21
+3680,João Alves,Supervisor,Vendas,12755.14,2017-06-10
+2026,Marcos Vinicius Moura,Técnico,Recursos Humanos,4741.7,2019-09-13
+8672,Daniel Mendes,Supervisor,Recursos Humanos,9936.11,2015-05-31
+7308,Srta. Agatha da Conceição,Assistente,TI,19875.46,2016-08-22
+4662,Evelyn Melo,Assistente,Engenharia,13169.1,2021-04-12
+5109,Murilo Farias,Assistente,Logística,12945.32,2016-10-06
+2768,Davi Ramos,Assistente,Recursos Humanos,16467.51,2015-06-12
+6825,Paulo Rodrigues,Engenheiro,Vendas,7870.05,2017-03-04
+4552,Dr. Bernardo Nogueira,Técnico,Logística,18212.7,2020-05-22
+5295,Isabelly Duarte,Assistente,TI,16720.05,2024-04-23
+5919,Dra. Elisa Ribeiro,Analista,Engenharia,17936.24,2016-08-22
+9402,Sra. Lara das Neves,Gerente,TI,12786.55,2017-02-14
+8890,Dr. Breno da Rosa,Supervisor,Vendas,7659.53,2016-01-20
+8008,Ana Clara Ferreira,Técnico,Engenharia,8701.55,2019-12-21
+7102,Theo Moreira,Técnico,Financeiro,10181.9,2020-10-13
+8794,Lara Mendes,Assistente,Logística,4289.01,2018-01-01
+9149,Laura Mendes,Supervisor,Recursos Humanos,10937.62,2019-10-19
+8723,Carolina da Costa,Assistente,Engenharia,13292.07,2024-06-07
+9842,Samuel Pinto,Analista,Financeiro,12147.84,2023-11-07
+6118,Lucas Gabriel Sales,Técnico,TI,8416.12,2015-12-10
+5846,Laís Peixoto,Analista,Vendas,13179.2,2022-06-11
+4282,Fernanda Freitas,Supervisor,TI,8082.62,2018-04-14
+3160,Maria Eduarda Dias,Gerente,TI,12088.94,2015-09-27
+5987,Luiz Felipe Cardoso,Analista,Vendas,17184.79,2018-10-25
+4327,Paulo Barbosa,Técnico,Logística,16331.04,2022-09-27
+7934,Pietro Cardoso,Engenheiro,Financeiro,8480.72,2017-11-10
+6955,Kaique Melo,Analista,TI,9522.8,2017-12-15
+7854,Carlos Eduardo Pinto,Técnico,Vendas,17576.98,2016-06-20
+5370,Caio Cardoso,Assistente,Logística,11111.95,2016-10-27
+7595,Isabella das Neves,Analista,Logística,18793.45,2018-10-18
+2530,Yuri da Mata,Analista,TI,10020.24,2015-03-31
+2496,Yago Barros,Técnico,Financeiro,16323.52,2019-06-04
+9862,André Nunes,Gerente,Engenharia,7065.28,2020-04-11
+5698,Sr. João Guilherme Oliveira,Assistente,Financeiro,18020.87,2018-04-29
+2381,Samuel da Mota,Analista,Logística,17115.12,2019-12-29
+8173,Kevin Aragão,Gerente,Recursos Humanos,5050.16,2017-05-06
+5651,Vitor Hugo da Mota,Assistente,TI,16302.39,2016-12-11
+9580,Luiz Gustavo Cardoso,Engenheiro,Financeiro,11676.83,2020-08-31
+8229,Rodrigo Fogaça,Assistente,Vendas,7023.5,2020-01-16
+4807,Nathan Teixeira,Engenheiro,Financeiro,3308.6,2024-07-14
+9224,Sofia Monteiro,Analista,Financeiro,8897.93,2021-01-03
+1068,Natália Barros,Engenheiro,Recursos Humanos,5255.84,2018-07-08
+1428,Sr. Rafael Oliveira,Analista,Vendas,8475.73,2021-09-17
+7981,Dr. Diogo Campos,Analista,Engenharia,11206.85,2022-03-04
+3928,João Guilherme Ramos,Assistente,Engenharia,2553.0,2022-02-20
+1527,Diego Pires,Supervisor,Logística,13595.58,2020-11-18
+7575,Larissa Correia,Gerente,Financeiro,13957.66,2016-12-03
+9853,Valentina Teixeira,Supervisor,Engenharia,6435.21,2022-03-19
+6846,Isabella Nascimento,Engenheiro,Financeiro,18038.63,2015-12-23
+9005,Maria Clara Vieira,Supervisor,Vendas,17991.47,2019-05-15
+8411,Olivia Rocha,Engenheiro,Logística,8677.95,2015-10-23
+1826,João Pedro Cardoso,Técnico,Recursos Humanos,18186.38,2016-08-02
+9359,Júlia Dias,Engenheiro,Recursos Humanos,14384.58,2018-05-12
+3917,Yuri Araújo,Técnico,TI,9916.87,2021-06-16
+9695,Sr. Henrique Cardoso,Analista,Financeiro,9448.44,2022-04-04
+6935,Thales da Rocha,Engenheiro,Logística,11844.77,2023-11-02
+4721,Maitê Viana,Gerente,Recursos Humanos,17486.13,2020-10-25
+3763,Nicole Lopes,Analista,Logística,11450.64,2021-07-05
+5766,Emilly Lopes,Assistente,Vendas,16703.23,2016-08-01
+3812,Maria Fernanda da Paz,Assistente,Engenharia,16504.3,2020-06-30
+4026,Ana Luiza Pinto,Analista,Recursos Humanos,10041.11,2017-07-15
+4165,Dr. Eduardo Almeida,Gerente,Financeiro,3956.85,2020-10-08
+5348,Valentina Rezende,Técnico,Vendas,15194.86,2022-04-07
+6064,Kevin Jesus,Assistente,Vendas,19669.44,2017-11-01
+2646,Danilo Costela,Assistente,Financeiro,13090.72,2015-10-23
+5434,Breno Carvalho,Técnico,TI,5309.65,2022-04-14
+1649,Bárbara Barros,Engenheiro,Recursos Humanos,13321.7,2020-09-03
+5988,Isabelly Monteiro,Assistente,Vendas,4191.45,2020-10-23
+8667,Lucca Lima,Assistente,Engenharia,14613.45,2016-10-24
+5586,Vitória Rezende,Supervisor,TI,4749.05,2018-06-26
+2169,Vitor Gabriel Teixeira,Assistente,Vendas,6905.98,2022-11-17
+5550,Sr. Theo Freitas,Assistente,TI,19289.6,2020-10-28
+9098,Maria Eduarda Souza,Assistente,TI,3267.76,2017-01-01
+8326,Ana Laura Santos,Assistente,Recursos Humanos,14621.81,2021-12-22
+5719,Thomas Nunes,Gerente,Logística,9987.81,2022-08-20
+3801,Yuri da Cunha,Técnico,Logística,5755.68,2016-02-13
+1388,Maria Alice Caldeira,Técnico,Engenharia,6944.0,2024-11-27
+2537,Theo da Conceição,Gerente,TI,12550.24,2017-02-16
+1868,Levi da Rosa,Supervisor,Recursos Humanos,4947.86,2024-03-03
+3203,Caroline Vieira,Gerente,Engenharia,15871.22,2024-01-04
+5996,Thiago Monteiro,Supervisor,TI,9658.69,2022-07-19
+1551,Dr. Yuri da Mota,Técnico,Financeiro,2295.12,2018-02-14
+4237,Emanuel Azevedo,Analista,Recursos Humanos,9064.14,2018-11-08
+7314,Enrico Teixeira,Assistente,Engenharia,3876.74,2021-07-02
+8543,Dr. Isaac Ferreira,Engenheiro,Logística,11571.62,2018-06-09
+4591,Joana da Cunha,Analista,Logística,7378.41,2020-03-12
+6760,Ana Porto,Técnico,TI,18473.55,2022-07-07
+5309,Paulo Melo,Gerente,Financeiro,14995.7,2023-08-09
+6247,Lorenzo Gomes,Assistente,Logística,9651.49,2021-01-22
+8774,João Vitor Alves,Gerente,Financeiro,11075.69,2021-09-07
+1681,Luiz Gustavo da Mata,Técnico,Financeiro,3484.28,2017-12-25
+8306,Bárbara Souza,Técnico,TI,11135.39,2015-04-12
+6754,Ana da Conceição,Engenheiro,TI,12908.06,2022-10-13
+8839,Thales Moreira,Engenheiro,Engenharia,13667.78,2017-12-11
+6865,Levi Cunha,Engenheiro,Financeiro,15063.63,2015-07-08
+4230,Antônio Campos,Assistente,Logística,12085.41,2022-08-12
+4514,Dr. Benjamin Santos,Analista,Financeiro,11169.81,2022-07-06
+8022,Maitê da Mata,Assistente,Financeiro,19400.06,2023-05-08
+3601,Nicolas Rocha,Gerente,TI,17290.94,2023-12-12
+7790,Evelyn Peixoto,Gerente,Vendas,2763.07,2023-02-22
+8233,Catarina Castro,Gerente,Financeiro,7731.68,2020-11-18
+8486,João Gabriel Caldeira,Gerente,Engenharia,16818.53,2019-03-02
+6584,Alícia Pires,Assistente,Financeiro,11102.89,2021-06-18
+1555,Theo Santos,Gerente,Vendas,18898.42,2022-09-11
+7462,Ana Julia da Rosa,Gerente,Recursos Humanos,17648.02,2023-10-06
+8240,Nina Gonçalves,Técnico,Recursos Humanos,19880.5,2021-07-17
+9916,Heitor Lima,Assistente,Financeiro,8669.58,2021-11-30
+1655,Mariane Jesus,Analista,Vendas,18088.82,2015-04-09
+3531,Maitê Araújo,Supervisor,Vendas,16074.8,2023-08-18
+1216,Ana Sophia Gomes,Técnico,Logística,19987.4,2018-05-04
+1985,Maria Clara Viana,Técnico,Engenharia,17538.01,2017-05-06
+8105,Dra. Stella Azevedo,Supervisor,Recursos Humanos,2664.12,2017-04-26
+8177,Isaac da Mata,Assistente,Recursos Humanos,15858.03,2020-08-23
+5465,Joana Novaes,Analista,Financeiro,2680.95,2016-07-19
+4286,Maysa Caldeira,Técnico,Engenharia,12074.5,2016-12-10
+1406,Pedro da Mata,Técnico,Vendas,18468.8,2021-05-16
+3153,Juan Cardoso,Supervisor,TI,8067.53,2021-06-23
+6560,Vicente Melo,Analista,Financeiro,8548.1,2018-05-14
+1057,Maysa Farias,Supervisor,Financeiro,9869.69,2024-06-02
+6231,Luiz Fernando das Neves,Supervisor,Financeiro,8704.68,2023-01-24
+2098,Vinicius Melo,Supervisor,Vendas,8990.05,2021-05-05
+9452,Brenda Freitas,Assistente,Financeiro,5547.01,2015-04-25
+3354,Dr. Renan Gonçalves,Técnico,Logística,3808.58,2024-06-10
+5729,Maria Luiza Ferreira,Técnico,TI,2968.35,2022-12-21
+1075,Lívia Pereira,Gerente,TI,8856.78,2024-04-03
+3713,Sra. Fernanda Ramos,Técnico,TI,4908.37,2019-01-31
+9653,Lívia Moura,Gerente,TI,12056.75,2015-04-17
+6286,Isabella da Mota,Assistente,Financeiro,17214.13,2018-11-19
+1246,Dra. Amanda Barros,Supervisor,Vendas,15380.96,2017-11-15
+3632,Maria Clara Carvalho,Gerente,Logística,15547.38,2016-02-17
+9850,Manuela da Rosa,Gerente,TI,11080.97,2020-03-06
+1909,Maria Fernanda Alves,Engenheiro,Logística,2134.31,2024-11-02
+8902,Otávio Cavalcanti,Engenheiro,Engenharia,15595.76,2019-10-11
+9262,Guilherme Barbosa,Técnico,Vendas,7083.04,2024-06-27
+1526,João Guilherme Oliveira,Supervisor,Vendas,19717.29,2017-12-10
+2388,Pedro Henrique Nascimento,Assistente,Financeiro,2582.33,2022-08-08
+6708,Leandro Martins,Técnico,Logística,7629.59,2019-10-21
+3692,Vitória Porto,Gerente,Vendas,6567.22,2017-12-18
+6249,Srta. Lorena Pereira,Analista,Financeiro,16415.9,2020-12-15
+1641,Stephany Cardoso,Supervisor,Recursos Humanos,4360.09,2016-03-02
+1972,Davi Lucas Rocha,Engenheiro,Financeiro,18103.59,2018-03-22
+7821,Sra. Eloah Lopes,Técnico,Engenharia,6972.57,2023-02-20
+6673,Larissa Moura,Assistente,Vendas,14241.65,2018-08-01
+7125,Ana Lopes,Analista,Recursos Humanos,4376.53,2015-01-20
+7132,Marina Gonçalves,Supervisor,TI,16936.48,2023-10-09
+4178,Leandro Cardoso,Técnico,Recursos Humanos,12929.44,2016-09-22
+6163,Sr. Guilherme da Cunha,Analista,Financeiro,14599.59,2021-05-04
+5473,Júlia da Paz,Analista,Engenharia,4898.44,2023-01-15
+4467,Danilo Moura,Técnico,TI,19002.44,2023-10-25
+9963,Felipe Oliveira,Engenheiro,Financeiro,5105.3,2021-01-31
+8283,Nicolas Barbosa,Engenheiro,Logística,6334.03,2023-11-19
+5907,Lucas Teixeira,Técnico,Financeiro,5976.34,2018-03-13
+8815,Sra. Mariane Moraes,Analista,Recursos Humanos,14259.09,2023-05-16
+5503,Marcela Aragão,Assistente,Vendas,17398.79,2020-09-04
+7735,Larissa Gomes,Assistente,Recursos Humanos,17744.8,2022-02-06
+8551,Maysa Viana,Engenheiro,Engenharia,14422.13,2014-12-25
+2067,Laís Lima,Analista,Engenharia,13592.58,2023-02-28
+1372,Alana Sales,Supervisor,Logística,11306.58,2022-03-21
+3172,Ana Beatriz Fernandes,Gerente,Logística,19083.61,2022-11-28
+6321,Elisa Jesus,Assistente,Logística,17843.62,2024-11-02
+6667,Juliana Araújo,Técnico,Recursos Humanos,17576.14,2019-04-01
+5343,João Miguel da Cunha,Assistente,Vendas,11672.27,2015-02-10
+6729,Francisco Pereira,Analista,Logística,15408.64,2020-07-09
+7274,Rodrigo Aragão,Analista,Recursos Humanos,19595.42,2015-06-14
+1223,Isadora Aragão,Supervisor,TI,11783.78,2023-06-20
+1571,Daniel da Rocha,Analista,Financeiro,4366.84,2024-04-28
+8888,Lívia Azevedo,Supervisor,Financeiro,12190.76,2020-01-21
+6122,Maria Clara Costa,Técnico,Engenharia,3943.23,2023-10-22
+9537,Giovanna Azevedo,Engenheiro,Recursos Humanos,18741.89,2022-03-22
+4971,Ana Vitória Barros,Analista,Engenharia,11034.7,2017-04-17
+6505,Mariane Lima,Assistente,Financeiro,8216.62,2019-01-04
+7497,Gustavo Freitas,Supervisor,Financeiro,14380.15,2024-09-04
+5763,Emanuelly Lopes,Gerente,TI,6660.92,2021-08-23
+8406,Ana Luiza Oliveira,Supervisor,Engenharia,7005.17,2023-07-30
+4190,Bruno Oliveira,Assistente,TI,12414.86,2024-10-16
+3254,Camila da Paz,Assistente,Engenharia,18646.86,2017-06-20
+4008,Maria Julia da Rosa,Engenheiro,Engenharia,19446.02,2018-03-26
+8170,Emilly Ferreira,Técnico,Financeiro,3770.58,2023-02-19
+6195,Catarina Campos,Analista,Vendas,19359.42,2024-11-16
+2459,Gabrielly Farias,Analista,Logística,17230.33,2015-08-18
+7742,Sr. Joaquim Melo,Analista,Recursos Humanos,14622.01,2016-02-13
+8315,Emanuella Melo,Supervisor,Recursos Humanos,9116.66,2015-10-02
+3290,Srta. Isadora das Neves,Gerente,Financeiro,10150.69,2021-12-10
+4978,Eloah Fernandes,Gerente,Logística,6469.2,2022-07-08
+2594,Sra. Emanuella Moraes,Gerente,TI,4024.62,2022-03-26
+8607,Esther Carvalho,Supervisor,Logística,2198.2,2024-06-25
+4162,Sra. Juliana Vieira,Gerente,Engenharia,12098.8,2022-01-28
+4101,Benjamin Barbosa,Técnico,Engenharia,3438.98,2020-04-29
+1175,Alice Carvalho,Técnico,Vendas,17860.01,2023-01-21
+3831,Dra. Olivia Correia,Assistente,Engenharia,11149.37,2023-09-25
+2842,Heloísa Cardoso,Supervisor,Recursos Humanos,14623.92,2021-08-31
+4674,Brenda Costela,Supervisor,TI,8896.07,2020-03-20
+9193,Bruna Cardoso,Gerente,Engenharia,14634.43,2017-05-05
+2720,João Felipe Vieira,Técnico,Engenharia,12289.72,2015-09-17
+4067,Ana Beatriz Ferreira,Supervisor,TI,17532.88,2016-02-02
+9891,Nina Gomes,Técnico,Recursos Humanos,9010.45,2019-09-25
+4349,Maria Cecília da Rosa,Supervisor,Engenharia,19025.36,2016-10-18
+4112,João Felipe da Paz,Técnico,Engenharia,5708.84,2024-03-03
+2018,Nina das Neves,Técnico,Recursos Humanos,14918.22,2022-06-21
+9228,Igor Gonçalves,Supervisor,Logística,13598.11,2021-03-29
+8405,Maria Clara Alves,Engenheiro,TI,7370.84,2021-11-17
+4615,Isadora Carvalho,Assistente,Logística,12328.69,2018-03-16
+3170,Antônio Rezende,Engenheiro,Recursos Humanos,6196.85,2015-10-11
+1425,Luana Aragão,Supervisor,Logística,17184.98,2015-09-07
+4103,Milena Souza,Analista,Financeiro,2977.88,2021-04-07
+6058,Vicente da Mata,Técnico,Financeiro,6486.38,2019-03-17
+3902,Ana Lívia das Neves,Técnico,Logística,12315.89,2020-07-09
+8254,Nina Nunes,Engenheiro,TI,16900.3,2021-08-23
+6464,Sophia Moreira,Analista,Financeiro,17129.57,2018-09-02
+7580,Stephany Araújo,Analista,TI,6076.63,2021-01-30
+3218,Enrico Jesus,Assistente,Engenharia,12685.24,2019-03-09
+9408,Maria Julia Cunha,Técnico,Recursos Humanos,2290.01,2018-02-18
+2775,Lavínia da Mata,Assistente,Vendas,10014.57,2016-08-13
+9390,Yago Jesus,Engenheiro,Logística,10771.48,2023-10-26
+8452,Sr. Murilo da Mota,Assistente,TI,16493.18,2017-07-09
+4799,Amanda das Neves,Engenheiro,Recursos Humanos,4849.64,2020-11-10
+1331,Ryan Lopes,Assistente,TI,12960.61,2015-08-09
+6766,Marcos Vinicius Monteiro,Supervisor,TI,17860.21,2016-08-14
+7356,Isis Gonçalves,Analista,Engenharia,6633.35,2019-11-27
+9449,Benício Silveira,Supervisor,Financeiro,8214.43,2017-11-10
+5794,Lorena Moreira,Analista,Financeiro,6046.67,2018-07-29
+5033,Dra. Luiza da Rocha,Supervisor,TI,4936.11,2016-05-26
+2968,Yasmin da Mota,Técnico,Engenharia,13066.18,2020-02-29
+1472,Sra. Catarina Castro,Assistente,Logística,10891.2,2022-02-21
+8530,Maysa Nogueira,Técnico,Logística,15863.39,2019-06-15
+3931,Maria Eduarda da Rosa,Gerente,TI,2946.39,2020-11-03
+1393,Raquel Santos,Supervisor,Vendas,10065.76,2021-05-09
+6878,Lucas Gabriel Gomes,Gerente,TI,2799.76,2021-08-20
+4774,Maria Cecília Gomes,Analista,Vendas,10920.81,2023-04-16
+8729,Dr. Benjamin da Rocha,Técnico,Logística,14871.95,2024-07-29
+4051,Isabelly da Costa,Assistente,Engenharia,6460.78,2023-10-21
+2585,Sabrina Azevedo,Supervisor,TI,14613.91,2021-06-25
+8952,Bryan Sales,Engenheiro,Vendas,14092.54,2023-04-20
+4332,Sra. Joana Cardoso,Supervisor,TI,17551.62,2024-05-16
+3050,Caroline Oliveira,Técnico,Logística,15716.25,2020-08-20
+7695,Daniela Jesus,Gerente,Logística,2762.41,2018-11-15
+8312,Vitor da Mota,Técnico,Financeiro,9033.05,2015-07-08
+8023,Nina Nunes,Supervisor,Logística,10835.71,2024-10-22
+8238,Leandro Ferreira,Analista,Vendas,6388.86,2019-02-02
+7286,Augusto Farias,Analista,Engenharia,19053.33,2017-12-13
+5952,Carolina das Neves,Técnico,Engenharia,6361.66,2017-05-01
+5132,Ana Luiza Sales,Analista,Vendas,15681.82,2023-11-22
+9773,Sr. Eduardo Freitas,Supervisor,TI,3563.81,2018-02-07
+2942,Benjamin Nogueira,Analista,Engenharia,14089.77,2019-09-16
+4023,Laura Lima,Supervisor,TI,10866.45,2018-05-29
+1714,Isaac Pereira,Gerente,Financeiro,11271.1,2023-09-26
+3935,Diogo da Cruz,Analista,Logística,10251.92,2023-11-17
+5953,Levi Lopes,Engenheiro,Engenharia,16506.56,2021-02-08
+9241,Mariane Sales,Técnico,Recursos Humanos,2602.46,2022-10-02
+3584,Juan da Cruz,Engenheiro,Recursos Humanos,4784.21,2024-01-01
+5077,Thales da Rocha,Engenheiro,Vendas,14382.85,2015-06-28
+5435,Renan da Mata,Supervisor,Engenharia,18812.41,2015-06-26
+4030,Maria Cardoso,Gerente,Recursos Humanos,12859.47,2015-10-16
+9286,Renan da Conceição,Gerente,Financeiro,7193.64,2016-04-12
+4359,Giovanna Azevedo,Supervisor,Financeiro,12813.46,2016-03-09
+6971,Dr. Breno da Mata,Analista,TI,3157.4,2016-06-15
+6394,Francisco Dias,Assistente,Engenharia,15366.98,2019-09-23
+5752,Caroline Cunha,Supervisor,Vendas,5249.17,2018-09-29
+3236,Antônio Silva,Gerente,Logística,6111.7,2015-10-25
+9557,Danilo Cardoso,Engenheiro,Recursos Humanos,16363.45,2020-05-29
+8494,Isadora Lopes,Gerente,Logística,4934.38,2021-02-21
+4771,Luiz Miguel Dias,Supervisor,Financeiro,12020.67,2020-07-09
+8037,Sophia Jesus,Analista,Logística,12214.84,2015-03-15
+6344,Ana Souza,Engenheiro,Recursos Humanos,8619.15,2023-07-17
+6351,Alana Fernandes,Engenheiro,Financeiro,5220.46,2018-04-22
+2371,Marcelo Cardoso,Engenheiro,Recursos Humanos,19605.95,2016-09-27
+2681,Marina Nunes,Técnico,Vendas,4268.9,2023-11-22
+5385,Cecília Freitas,Assistente,Engenharia,17543.24,2021-11-03
+3372,Luana Araújo,Engenheiro,Recursos Humanos,13179.94,2023-06-04
+7224,Maria Eduarda Moraes,Supervisor,TI,11128.55,2018-09-12
+5047,Marcelo Cardoso,Engenheiro,Engenharia,11027.72,2024-10-16
+3179,Sr. Carlos Eduardo Caldeira,Assistente,Recursos Humanos,8251.28,2024-07-10
+8584,Lara Viana,Assistente,Engenharia,10709.97,2017-06-04
+9473,Henrique Oliveira,Assistente,Engenharia,14338.47,2023-12-05
+5519,Luiz Felipe Peixoto,Supervisor,Engenharia,8878.9,2018-12-11
+5301,Emanuella da Conceição,Analista,TI,2320.87,2015-07-09
+3079,Sr. Leonardo da Conceição,Engenheiro,Logística,3155.09,2021-12-30
+4929,Sarah Costela,Engenheiro,TI,5600.41,2023-12-02
+9063,Pedro Miguel Jesus,Analista,Recursos Humanos,11856.32,2017-08-01
+4741,Srta. Emilly Mendes,Engenheiro,Financeiro,3793.18,2022-07-26
+6819,Calebe Nascimento,Gerente,Vendas,9027.26,2018-11-11
+5585,Dr. Vinicius da Rosa,Engenheiro,Vendas,8770.74,2018-03-23
+6278,Rebeca Cavalcanti,Assistente,Logística,13330.56,2021-11-28
+4853,Srta. Sarah Campos,Analista,Logística,16857.3,2024-10-07
+6586,Dra. Bianca Martins,Técnico,Recursos Humanos,19808.98,2016-02-20
+9014,Nicole Almeida,Gerente,TI,3170.04,2021-01-18
+3983,Ana Beatriz da Paz,Engenheiro,Logística,17104.52,2023-09-02
+6423,Ana Beatriz Caldeira,Analista,Financeiro,15095.86,2020-12-13
+8203,Maria Alice Souza,Gerente,TI,2121.99,2016-09-02
+6637,Sra. Isadora das Neves,Analista,Vendas,14364.86,2020-11-21
+7594,João Miguel Cunha,Analista,Logística,7922.02,2019-02-06
+9733,Sra. Fernanda Gomes,Gerente,Logística,12912.16,2020-04-15
+9748,Davi Lucca Rezende,Gerente,Vendas,6403.18,2015-04-23
+2951,Alexandre da Cruz,Supervisor,TI,19603.61,2021-08-04
+8448,Anthony Lopes,Gerente,TI,5483.78,2022-04-19
+9106,Júlia da Paz,Analista,Engenharia,12121.55,2019-12-01
+7602,Emanuel Lima,Supervisor,Engenharia,17005.75,2023-07-24
+7017,Thomas Silva,Técnico,Engenharia,5804.78,2022-01-18
+4034,Lucas da Paz,Assistente,Vendas,16072.44,2017-10-23
+2373,Juan Nunes,Gerente,Financeiro,13472.51,2023-09-12
+9693,Clarice Araújo,Assistente,Vendas,10885.24,2017-03-29
+5728,Emilly Oliveira,Supervisor,TI,7055.39,2017-05-22
+2081,Nicole Farias,Supervisor,Financeiro,2653.22,2023-05-24
+9396,Caio Silveira,Analista,Logística,4015.99,2022-04-10
+4096,Carlos Eduardo Moreira,Supervisor,Logística,13380.23,2024-07-04
+2981,Marina Souza,Técnico,Logística,12102.11,2015-10-30
+5896,Lorenzo Cavalcanti,Assistente,Logística,7521.29,2022-06-11
+9700,Milena Porto,Analista,Logística,6045.1,2016-04-06
+5285,Srta. Mirella Freitas,Engenheiro,Recursos Humanos,10466.88,2022-12-29
+7317,Gabrielly Barros,Gerente,Financeiro,12857.51,2023-05-29
+2116,Luiz Miguel Nogueira,Assistente,Engenharia,2699.66,2015-05-17
+5302,Diogo Melo,Engenheiro,TI,12445.68,2019-01-27
+4997,Ana Lívia Silveira,Assistente,Vendas,8613.99,2024-11-30
+6516,Lorena Freitas,Supervisor,Logística,10268.67,2023-08-14
+5219,Thomas Silva,Assistente,Vendas,15461.66,2024-02-13
+9987,Júlia Pires,Assistente,Vendas,12869.37,2017-05-16
+7973,Laís Porto,Engenheiro,Engenharia,6985.43,2022-11-12
+6460,Nicole Oliveira,Analista,Engenharia,3543.73,2019-10-22
+7060,Ana Carolina Sales,Analista,Engenharia,4457.7,2022-09-05
+2102,Joaquim Nogueira,Engenheiro,Recursos Humanos,13630.03,2021-08-03
+1863,Miguel Mendes,Supervisor,Vendas,6903.33,2022-03-27
+9244,Luiz Fernando Ferreira,Técnico,Recursos Humanos,15734.03,2023-01-07
+1376,Anthony Monteiro,Supervisor,Logística,14400.54,2019-01-22
+6735,Fernando Moreira,Gerente,Engenharia,15134.65,2016-05-02
+3558,Sra. Nina Ribeiro,Gerente,Vendas,17931.59,2020-06-03
+4028,Isaac Freitas,Gerente,Vendas,14946.58,2018-08-14
+7146,Cauã Peixoto,Gerente,Engenharia,19890.32,2017-06-22
+3900,Murilo Ribeiro,Gerente,Financeiro,6733.14,2018-07-17
+4249,Sophie Lima,Assistente,TI,16020.76,2021-10-05
+8758,Maysa Cavalcanti,Técnico,Engenharia,16691.52,2015-04-12
+1657,Luigi Ramos,Assistente,Financeiro,17399.48,2024-06-06
+6694,Agatha Melo,Analista,Vendas,15664.32,2020-08-30
+3503,Valentina Araújo,Engenheiro,Vendas,2213.99,2018-03-21
+7870,André Cardoso,Analista,Engenharia,6637.31,2019-03-02
+7912,Diogo Ribeiro,Analista,Vendas,16730.56,2019-01-16
+8813,Sophie Azevedo,Assistente,Financeiro,15384.31,2021-04-07
+7000,Larissa Castro,Assistente,Logística,18783.91,2017-01-08
+9151,Elisa Porto,Assistente,Financeiro,7531.33,2015-03-07
+7015,Dr. Renan Rocha,Assistente,Engenharia,19377.85,2024-06-01
+8807,Carolina Lopes,Analista,Engenharia,12899.75,2024-05-22
+3813,Letícia Araújo,Analista,Financeiro,10758.72,2015-06-15
+4779,Benício Fogaça,Gerente,TI,8451.86,2023-09-25
+5897,Srta. Sabrina Porto,Gerente,Financeiro,7350.24,2022-07-15
+5483,Lorena das Neves,Engenheiro,Engenharia,12078.49,2022-03-28
+4829,Felipe Azevedo,Supervisor,Recursos Humanos,13057.53,2017-03-19
+7969,Bernardo da Costa,Engenheiro,Logística,4157.55,2018-11-24
+3642,Lívia Azevedo,Engenheiro,Engenharia,15216.62,2017-01-24
+4732,Luiz Miguel Novaes,Supervisor,Engenharia,6803.48,2021-08-19
+6936,Rebeca Moura,Analista,Recursos Humanos,18844.5,2016-12-11
+9942,Raquel Novaes,Supervisor,TI,15108.82,2019-08-01
+1864,Sr. Luiz Felipe Vieira,Engenheiro,Financeiro,4923.41,2024-05-04
+6954,Julia Fernandes,Gerente,TI,13377.48,2022-05-06
+3493,Vitor da Paz,Assistente,Vendas,3847.92,2024-07-09
+9857,Thiago Moreira,Engenheiro,Engenharia,2427.5,2016-05-31
+8083,Carlos Eduardo Oliveira,Técnico,Vendas,10068.95,2022-07-01
+3460,Laura Porto,Analista,Recursos Humanos,5667.33,2024-02-12
+5968,Alícia da Luz,Assistente,Engenharia,11908.1,2018-11-13
+9658,Arthur Castro,Supervisor,Engenharia,6466.17,2017-04-23
+5526,Luigi da Luz,Engenheiro,Financeiro,15353.27,2021-04-15
+9556,Dra. Pietra da Mota,Engenheiro,Recursos Humanos,5279.56,2019-01-09
+5716,Thiago Barbosa,Engenheiro,Financeiro,9419.28,2015-04-09
+6088,Kamilly Moura,Engenheiro,TI,5458.05,2016-08-15
+4368,Yuri Costa,Engenheiro,Recursos Humanos,9202.12,2020-05-12
+3279,Igor da Mata,Engenheiro,Recursos Humanos,3320.99,2018-09-12
+3832,Marcela da Paz,Gerente,Engenharia,16073.56,2023-10-04
+3268,Samuel Cardoso,Assistente,TI,15915.97,2022-05-07
+9072,Sophie Campos,Assistente,Recursos Humanos,9981.93,2021-07-25
+1028,Sr. Luiz Gustavo Cardoso,Assistente,TI,6840.17,2019-10-22
+8648,Davi Lucca da Cruz,Analista,Logística,15454.44,2022-01-23
+5158,Dr. Eduardo da Rocha,Analista,Logística,5847.99,2020-05-31
+4974,Srta. Laura Almeida,Técnico,Logística,12740.3,2018-04-10
+4730,Thiago Vieira,Supervisor,Vendas,3997.01,2019-01-25
+6336,Davi Lucca Almeida,Técnico,Financeiro,17574.79,2023-09-20
+6043,Ana Lívia da Conceição,Supervisor,Recursos Humanos,9835.56,2017-10-16
+3112,Calebe Azevedo,Gerente,Logística,8635.3,2020-08-18
+9967,Sr. Bernardo da Mata,Gerente,Vendas,6125.81,2023-11-10
+5054,Maria Luiza Alves,Analista,TI,15776.4,2016-10-13
+8014,Davi da Paz,Gerente,TI,19674.58,2018-01-23
+4840,Maria Alice Azevedo,Supervisor,Recursos Humanos,14684.15,2015-04-14
+6496,Breno Lopes,Técnico,TI,13482.79,2022-05-16
+2333,Marcela Costela,Analista,Recursos Humanos,10904.15,2020-02-23
+4320,Diogo Dias,Assistente,Financeiro,8478.92,2017-02-17
+3217,João da Cruz,Supervisor,TI,4339.76,2015-12-23
+5811,Rafaela Correia,Assistente,Logística,6291.56,2016-04-03
+3232,Ana Sophia Dias,Gerente,Financeiro,2208.58,2017-05-01
+9731,Dra. Isadora Barros,Gerente,Logística,11328.06,2019-04-29
+1858,Benjamin Santos,Engenheiro,Recursos Humanos,14420.06,2019-06-24
+2837,Davi Lucas Oliveira,Gerente,Recursos Humanos,8875.96,2022-02-17
+1151,Fernanda Barbosa,Técnico,Engenharia,13162.4,2016-11-30
+3118,Esther Silva,Técnico,Financeiro,17918.08,2023-07-23
+4808,Leandro da Mata,Engenheiro,TI,14654.7,2020-03-05
+1881,Kaique da Paz,Técnico,Recursos Humanos,18302.24,2024-08-17
+3666,Dra. Maysa Gomes,Técnico,Financeiro,9415.81,2019-08-19
+5795,Pedro Nogueira,Engenheiro,Logística,2894.01,2020-01-18
+5616,Sra. Ana Clara Barros,Analista,Logística,18551.02,2024-01-18
+7113,Eloah Azevedo,Analista,Logística,15990.9,2019-04-19
+6228,Lara Oliveira,Analista,Vendas,7365.0,2015-08-21
+4805,Agatha Pires,Supervisor,Engenharia,9397.19,2021-04-03
+7975,Eloah Caldeira,Analista,Engenharia,9865.99,2023-12-09
+5514,Ana Júlia Lima,Gerente,Logística,15146.26,2018-09-09
+4635,Catarina Melo,Engenheiro,TI,19435.33,2022-03-29
+9154,Bruna Barbosa,Supervisor,Logística,9288.54,2019-09-13
+3256,João Monteiro,Técnico,Recursos Humanos,9754.98,2024-05-17
+3142,Bernardo Viana,Assistente,Financeiro,7918.13,2021-08-19
+2231,Leonardo Nascimento,Supervisor,TI,10138.92,2023-01-31
+5906,Sra. Bianca Gomes,Técnico,Recursos Humanos,10794.41,2021-03-16
+5557,Sr. Pietro Pinto,Gerente,Vendas,7414.64,2023-11-28
+2461,Rafael Nascimento,Analista,Vendas,18511.96,2016-11-03
+2013,Nicolas da Conceição,Gerente,TI,4294.86,2022-11-13
+8764,Clara Vieira,Assistente,Vendas,18788.04,2024-11-11
+4625,Natália Cavalcanti,Supervisor,Engenharia,6685.52,2021-05-13
+7122,Sophie Viana,Engenheiro,Engenharia,13405.52,2022-04-03
+4270,Olivia Pereira,Assistente,TI,19299.38,2021-03-01
+7120,Sr. Vitor Pereira,Engenheiro,Logística,11986.48,2024-07-25
+9586,Maria Clara Vieira,Assistente,Engenharia,7668.55,2016-10-08
+7535,Enrico Pereira,Analista,Financeiro,12785.73,2015-04-29
+6398,Isabelly Pinto,Engenheiro,TI,18256.92,2017-04-27
+5823,Antônio da Rosa,Supervisor,TI,4661.5,2021-11-07
+3470,Pietra Costela,Engenheiro,Engenharia,18783.55,2018-07-31
+1325,Esther Vieira,Técnico,Logística,13914.63,2019-03-22
+1176,Isabel Castro,Analista,Engenharia,2166.23,2017-12-22
+8275,Stephany Carvalho,Engenheiro,Engenharia,16341.27,2023-04-29
+4019,Enrico Cunha,Engenheiro,TI,2965.32,2018-11-14
+1136,Carlos Eduardo da Mota,Assistente,Recursos Humanos,4359.12,2016-07-23
+2493,Arthur Costa,Engenheiro,Logística,14570.25,2017-06-05
+7211,Ana Sophia Ramos,Assistente,Logística,13742.74,2018-10-17
+2376,Sophia Novaes,Gerente,Financeiro,12732.83,2024-04-21
+7559,Thomas Pereira,Analista,TI,19567.44,2014-12-28
+6908,Sr. Marcos Vinicius Cavalcanti,Assistente,Engenharia,15316.84,2017-02-13
+4004,Rafael Correia,Supervisor,Logística,11940.76,2018-09-25
+8557,Vitória Aragão,Engenheiro,Logística,11010.78,2022-07-04
+4010,Yago da Cruz,Supervisor,Financeiro,13864.03,2022-07-19
+9774,Fernanda Caldeira,Supervisor,Logística,13880.01,2020-03-24
+4433,Alice Viana,Engenheiro,Financeiro,10540.28,2024-09-29
+9119,Manuela Sales,Gerente,Recursos Humanos,15481.02,2017-02-01
+6018,Dra. Ana Luiza Teixeira,Técnico,Financeiro,19576.28,2019-10-20
+3777,Natália da Paz,Gerente,Vendas,2885.88,2023-02-19
+8346,Carolina Vieira,Gerente,Financeiro,2612.31,2017-04-14
+4038,Letícia Costela,Supervisor,Financeiro,8374.31,2019-06-25
+2147,Pedro Gonçalves,Engenheiro,Logística,16702.57,2020-09-01
+6177,Kamilly Cunha,Gerente,Vendas,8222.91,2024-11-20
+3406,Evelyn Ribeiro,Técnico,Recursos Humanos,3428.15,2020-08-22
+3058,Dra. Rafaela Melo,Analista,Recursos Humanos,7748.31,2019-05-30
+5180,Theo Barbosa,Técnico,Financeiro,13467.45,2017-01-29
+6774,Nicole da Luz,Gerente,Vendas,18159.16,2023-08-14
+2987,João Vitor Souza,Técnico,Engenharia,17972.93,2015-04-19
+7189,Srta. Marina da Conceição,Engenheiro,Logística,16737.51,2020-11-15
+3139,Ana Julia Moraes,Técnico,Logística,19465.63,2019-08-05
+1463,Letícia da Paz,Supervisor,Engenharia,3743.98,2020-02-01
+2268,Ana Lívia Melo,Analista,Vendas,3602.05,2019-01-04
+1510,Alice Moraes,Assistente,Vendas,6262.22,2023-10-03
+6376,Sr. Marcelo Ferreira,Técnico,Vendas,8828.94,2017-07-24
+6888,Maria Eduarda Campos,Técnico,Engenharia,19945.95,2018-10-31
+3164,Helena Costa,Assistente,TI,8242.8,2019-11-16
+7044,Sophia Cunha,Assistente,Financeiro,13242.73,2022-06-02
+6827,Rafael Ribeiro,Engenheiro,Financeiro,18949.33,2017-02-21
+7977,Diego Araújo,Assistente,Logística,14796.48,2019-09-18
+6098,Bryan Lopes,Engenheiro,Logística,14505.85,2019-12-25
+6365,Bárbara da Luz,Técnico,Recursos Humanos,2504.23,2015-11-02
+3387,Pietro Lima,Técnico,Financeiro,4702.72,2023-05-14
+6013,Davi Lucas da Paz,Gerente,Engenharia,7165.51,2018-05-06
+2527,Calebe Moura,Técnico,Financeiro,14673.95,2024-03-12
+2497,Mirella Silva,Assistente,Engenharia,5193.89,2024-09-21
+5222,Alice Sales,Supervisor,Vendas,15244.11,2024-10-07
+1976,Juan Pereira,Técnico,Financeiro,14496.19,2023-03-18
+3278,Ana Vitória Alves,Gerente,Financeiro,16976.69,2016-02-16
+7547,Guilherme Castro,Técnico,TI,12028.06,2020-12-09
+6100,Diogo Araújo,Analista,Vendas,16930.37,2020-11-29
+9528,Kamilly Nunes,Supervisor,TI,16901.28,2019-01-15
+2845,Ana Júlia Carvalho,Gerente,Engenharia,18661.13,2018-06-13
+7656,Dr. João Martins,Supervisor,Vendas,2021.91,2018-12-01
+2124,Bianca Pires,Assistente,Engenharia,3927.05,2020-11-08
+4385,Alana Sales,Assistente,Engenharia,14906.08,2020-08-15
+9718,Srta. Maria Luiza Azevedo,Gerente,Engenharia,19334.63,2016-11-01
+4140,João Lucas da Mota,Gerente,Vendas,3291.51,2020-04-01
+9924,Sra. Maitê Vieira,Supervisor,TI,15554.58,2017-10-12
+6138,Mariana Almeida,Analista,TI,17193.45,2024-10-28
+7321,Sr. Luiz Henrique da Conceição,Analista,Recursos Humanos,10017.87,2015-12-08
+9169,Bryan Santos,Técnico,Financeiro,7308.94,2019-02-20
+3187,Sophie Freitas,Técnico,Logística,17097.35,2021-12-04
+1961,Milena Pires,Assistente,Logística,8816.36,2020-03-15
+2600,Luiz Fernando Vieira,Gerente,Vendas,19664.25,2015-01-29
+2387,Kaique Costa,Supervisor,Logística,17709.54,2017-03-18
+5806,Manuela da Conceição,Técnico,Engenharia,9432.02,2021-06-21
+8111,Murilo da Conceição,Supervisor,Logística,10506.14,2024-11-07
+3859,Raquel Campos,Engenheiro,Logística,9119.72,2015-02-08
+9324,Sra. Agatha Nogueira,Engenheiro,Recursos Humanos,13673.02,2015-11-27
+3125,Kevin da Mota,Analista,Engenharia,3460.17,2020-03-26
+4573,Ana Sophia Farias,Gerente,TI,5548.58,2021-12-17
+8500,Sr. Pedro da Conceição,Analista,Engenharia,6424.1,2023-07-06
+5056,Vitor Hugo Azevedo,Assistente,Financeiro,17536.87,2016-11-11
+3614,Luiz Miguel Silva,Analista,Vendas,7164.9,2019-08-25
+7719,Renan Pereira,Técnico,Logística,16185.9,2024-03-03
+4364,Sr. Kaique Santos,Engenheiro,TI,15715.06,2020-03-20
+9929,Gustavo da Cunha,Gerente,Engenharia,16575.11,2022-04-26
+4306,Srta. Eduarda Araújo,Supervisor,Engenharia,19706.49,2018-04-29
+4618,Sra. Ana Azevedo,Técnico,Vendas,2047.14,2020-03-27
+2931,Thiago Viana,Analista,Engenharia,11392.99,2016-06-30
+2397,Mariane Nascimento,Engenheiro,Financeiro,18034.3,2017-03-13
+9950,Ana Sophia da Conceição,Gerente,Logística,4289.63,2024-02-12
+6532,Brenda Caldeira,Assistente,Logística,5794.26,2021-10-31
+3821,João Vitor da Paz,Assistente,Logística,14576.91,2023-11-29
+3049,Sra. Bárbara Peixoto,Gerente,TI,17741.33,2015-01-11
+3220,Sra. Marina Lopes,Técnico,Financeiro,12708.64,2021-07-27
+9270,Yago Correia,Analista,Recursos Humanos,9392.66,2017-01-25
+9354,Noah da Conceição,Gerente,Financeiro,7554.91,2019-08-19
+2289,Maria Eduarda Nogueira,Assistente,Vendas,4128.12,2020-02-11
+2564,Agatha Cardoso,Gerente,Vendas,14672.73,2024-01-05
+4384,Danilo Sales,Assistente,Logística,3812.26,2014-12-28
+7840,Cecília Peixoto,Gerente,Engenharia,15631.49,2024-08-03
+2800,Sr. Emanuel Porto,Assistente,Vendas,10959.7,2023-09-25
+2220,João Miguel Aragão,Gerente,TI,4175.99,2019-07-22
+8753,André Viana,Supervisor,Recursos Humanos,9961.26,2023-08-21
+1925,Luiza da Mata,Assistente,TI,3356.63,2020-04-25
+4460,Sarah da Mota,Analista,Vendas,13921.74,2022-07-14
+8257,Srta. Lavínia Aragão,Engenheiro,Recursos Humanos,5984.5,2020-09-16
+1929,Bernardo Moraes,Engenheiro,Recursos Humanos,12861.56,2020-03-31
+9728,Ana Sophia Santos,Técnico,Financeiro,6390.8,2020-10-29
+2359,Benício Freitas,Supervisor,TI,14652.62,2023-02-25
+5805,Sr. Lucas Caldeira,Supervisor,Recursos Humanos,9189.92,2020-10-24
+4367,Ian Porto,Assistente,TI,12881.97,2019-04-30
+4255,Sr. Luiz Felipe Cunha,Assistente,TI,13010.42,2022-10-02
+4437,Enzo Dias,Técnico,Engenharia,14918.48,2016-02-28
+9681,João Gabriel Fogaça,Técnico,Vendas,6979.27,2018-03-07
+1014,Julia Pereira,Assistente,Financeiro,13990.78,2017-06-23
+6092,Nina Mendes,Assistente,Financeiro,8762.06,2021-01-24
+8818,Sabrina Freitas,Supervisor,Financeiro,11951.5,2023-02-18
+5975,Francisco Ferreira,Analista,Vendas,12260.29,2021-09-19
+2630,Natália Ramos,Analista,Engenharia,16359.52,2016-07-24
+1747,Maitê Nogueira,Gerente,Financeiro,2873.49,2021-03-19
+8040,Cecília da Conceição,Gerente,Vendas,3169.11,2024-08-05
+4723,Isabelly Nunes,Supervisor,Financeiro,12308.6,2014-12-16
+9907,Pedro Lucas Moura,Engenheiro,Vendas,8179.0,2024-01-31
+9872,Srta. Lavínia Viana,Engenheiro,Financeiro,11726.95,2020-03-19
+1508,Vinicius Barbosa,Engenheiro,Recursos Humanos,18813.52,2020-01-23
+1777,Sr. Marcelo Viana,Supervisor,Engenharia,19549.6,2019-08-27
+7513,Lucas Silva,Engenheiro,Recursos Humanos,6370.85,2019-06-21
+5706,Sr. Pedro Lucas Gonçalves,Analista,Logística,16039.5,2015-05-04
+9431,Cecília da Paz,Gerente,TI,19523.06,2022-03-26
+4150,Clara Lima,Engenheiro,Financeiro,16003.01,2024-06-01
+3701,Gustavo da Mota,Analista,Vendas,8844.45,2024-06-24
+7794,Isaac Souza,Analista,Recursos Humanos,8790.33,2021-02-13
+1759,Bryan Nascimento,Assistente,Financeiro,6778.02,2015-11-18
+7496,Bernardo Carvalho,Técnico,Engenharia,7005.79,2022-03-07
+9136,Bruna Pinto,Técnico,Recursos Humanos,2378.02,2024-04-21
+3301,Francisco Fogaça,Técnico,Recursos Humanos,19809.49,2024-01-12
+9017,João Miguel da Costa,Supervisor,Vendas,5711.41,2017-02-05
+2174,Mariane Moura,Técnico,Vendas,3420.55,2017-07-25
+6902,Dr. Matheus Almeida,Técnico,Recursos Humanos,6382.67,2019-02-16
+1504,Carolina Silva,Supervisor,Engenharia,17735.79,2018-04-09
+6417,Marina Silva,Supervisor,Vendas,11064.71,2022-08-04
+5153,Bernardo Barros,Assistente,TI,15199.64,2019-12-17
+1952,Bruno Pires,Gerente,Recursos Humanos,19354.48,2018-01-17
+4410,Sra. Esther Santos,Analista,TI,14936.29,2020-08-11
+4068,Dra. Letícia Melo,Supervisor,Logística,6090.42,2021-12-27
+9808,Caroline Porto,Supervisor,TI,4896.76,2019-10-05
+6817,Nina Freitas,Analista,Financeiro,3508.36,2024-06-08
+3020,Evelyn Jesus,Analista,Engenharia,4794.12,2019-07-01
+5271,Laura Aragão,Assistente,Engenharia,7193.05,2019-02-09
+7459,Nicolas Duarte,Engenheiro,Financeiro,19849.13,2023-01-12
+7030,Sr. Kaique Cardoso,Engenheiro,Engenharia,11777.19,2016-07-28
+7572,Lívia Nunes,Gerente,Vendas,2083.82,2024-07-06
+6331,Heloísa Freitas,Engenheiro,Recursos Humanos,19491.31,2023-11-02
+3334,Milena Lima,Engenheiro,Vendas,16085.33,2023-02-16
+8755,Alícia Rezende,Gerente,Engenharia,13124.8,2024-06-02
+5746,Diego da Cruz,Engenheiro,Financeiro,18920.21,2020-10-20
+8508,Dra. Ana Carolina Moura,Gerente,Recursos Humanos,6280.19,2022-06-08
+8873,Mariana Jesus,Assistente,Recursos Humanos,10767.05,2018-04-13
+8793,Evelyn das Neves,Assistente,Financeiro,12762.38,2020-08-04
+2492,Nina Oliveira,Técnico,Engenharia,17939.89,2022-08-21
+8178,Danilo Carvalho,Gerente,Financeiro,4225.07,2022-08-06
+9157,Bernardo Cardoso,Supervisor,Financeiro,9924.16,2023-09-14
+2944,João Miguel Mendes,Engenheiro,Logística,10124.1,2015-01-06
+1329,Heitor Souza,Assistente,TI,4960.14,2016-03-28
+6623,Sra. Sofia Dias,Analista,Financeiro,5394.63,2020-05-30
+4251,Theo Souza,Gerente,Logística,3806.06,2019-05-02
+8552,Heloísa Viana,Assistente,Recursos Humanos,6746.74,2020-09-12
+3581,Agatha Fernandes,Assistente,Vendas,9955.21,2015-04-27
+5835,Stella Dias,Gerente,Financeiro,11204.45,2022-12-25
+8682,Ana Júlia Silva,Assistente,Logística,17891.62,2018-03-20
+6917,João Felipe Fogaça,Engenheiro,Vendas,6376.96,2015-08-07
+8333,Sra. Ana Sales,Engenheiro,Recursos Humanos,9117.13,2017-07-02
+4493,Otávio Viana,Técnico,TI,5771.76,2023-09-09
+1464,Pedro Miguel Aragão,Supervisor,Engenharia,8070.08,2017-07-25
+8844,Davi Lucas Ribeiro,Técnico,Vendas,14793.12,2022-11-28
+9281,Augusto Martins,Técnico,Engenharia,6838.8,2018-08-21
+6545,Maria Luiza Alves,Assistente,Recursos Humanos,18611.74,2016-09-17
+6108,Dra. Maria Sophia Lopes,Gerente,Engenharia,17509.24,2020-05-25
+5829,Maria Cecília Jesus,Assistente,Financeiro,18805.94,2016-08-30
+4708,Nathan Moreira,Supervisor,Financeiro,14146.48,2024-01-18
+3150,Srta. Alana Teixeira,Analista,Vendas,13884.05,2019-07-18
+9945,Dr. Erick da Costa,Engenheiro,Financeiro,15080.84,2018-11-14
+1362,Rodrigo Jesus,Gerente,TI,5845.96,2021-11-30
+4163,Benício da Paz,Assistente,Logística,7561.47,2017-03-07
+9336,Vinicius Oliveira,Engenheiro,Engenharia,7595.08,2021-01-13
+9243,Stephany Silva,Assistente,TI,12453.22,2024-08-26
+9750,Heitor Moura,Assistente,Vendas,9913.64,2017-02-08
+2949,Raul Barros,Supervisor,TI,17429.76,2022-10-14
+7816,Elisa Araújo,Assistente,TI,19959.01,2020-04-17
+4301,Yasmin Silva,Assistente,Engenharia,17937.83,2024-07-18
+8153,João Pedro da Paz,Assistente,Financeiro,3158.79,2017-07-23
+4950,Dr. Eduardo Fernandes,Analista,Engenharia,14871.73,2019-06-03
+7842,Marcelo Ramos,Assistente,Engenharia,6735.66,2022-03-09
+8350,Marcos Vinicius Caldeira,Supervisor,Recursos Humanos,15181.05,2017-07-02
+5530,Sra. Marcela Cavalcanti,Gerente,Vendas,6417.97,2022-06-03
+7058,Luigi Almeida,Engenheiro,Vendas,11295.18,2016-01-24
+1843,Sr. Davi Luiz Carvalho,Analista,Logística,5854.75,2024-05-30
+4186,Daniela Castro,Gerente,Recursos Humanos,7234.87,2023-08-20
+9810,Marcela Novaes,Analista,Financeiro,5729.98,2023-05-21
+1804,Isadora Martins,Engenheiro,Logística,13822.65,2021-07-25
+7609,Dr. Carlos Eduardo Alves,Supervisor,Vendas,16986.6,2022-02-02
+5061,Ana Clara Lopes,Assistente,Financeiro,6935.27,2023-05-07
+3910,Ana Clara Azevedo,Analista,Vendas,14408.18,2019-07-04
+4043,Manuela Moura,Gerente,Recursos Humanos,2801.02,2016-08-24
+2905,Dra. Larissa da Cruz,Analista,Financeiro,13031.6,2021-11-03
+9562,Isabelly Rodrigues,Supervisor,Engenharia,5976.45,2020-01-21
+8436,Manuela Alves,Gerente,Financeiro,8428.5,2023-03-03
+7019,Guilherme Nogueira,Analista,Engenharia,19491.86,2024-04-24
+2056,Emilly da Costa,Supervisor,Engenharia,17174.52,2023-12-15
+8811,Srta. Olivia Costa,Analista,Logística,15670.92,2018-03-01
+2001,Agatha Campos,Supervisor,TI,4747.59,2022-06-10
+3722,Emanuelly Barbosa,Supervisor,TI,5783.45,2022-12-19
+3895,Lavínia Carvalho,Engenheiro,Engenharia,14336.43,2022-09-08
+2898,Olivia Ferreira,Gerente,Vendas,5286.01,2018-06-07
+9343,Ana Júlia Alves,Técnico,TI,3994.11,2015-02-12
+3303,Nina da Luz,Gerente,Vendas,11871.82,2019-07-27
+6512,Igor Alves,Gerente,Engenharia,14162.88,2017-09-26
+8838,Srta. Ana Lívia Caldeira,Técnico,Vendas,4304.54,2019-10-12
+5446,Thales Mendes,Analista,Financeiro,2620.77,2024-11-13
+3266,Dr. Noah Costa,Supervisor,Recursos Humanos,14597.63,2019-03-15
+3151,Vitor Araújo,Assistente,Engenharia,14888.11,2023-05-10
+4321,Alice Rezende,Engenheiro,Logística,8567.44,2018-07-17
+2993,Agatha Nogueira,Analista,Vendas,6003.33,2015-03-28
+5849,Pietro da Mata,Assistente,Vendas,5625.93,2018-03-12
+6725,Davi Vieira,Gerente,Engenharia,2672.42,2019-10-10
+3171,Maria Alice da Costa,Supervisor,Financeiro,13173.66,2020-06-13
+1833,Giovanna Moura,Técnico,Financeiro,11013.35,2018-09-06
+4146,Pedro Henrique Campos,Técnico,Logística,3292.68,2024-06-01
+4027,Isabelly da Mata,Supervisor,Logística,4719.52,2015-10-09
+9835,Isabel Araújo,Técnico,Recursos Humanos,8190.95,2019-03-28
+4755,Emilly Campos,Engenheiro,Vendas,3376.74,2023-01-14
+4079,Dr. Henrique Costa,Analista,Financeiro,18994.55,2022-11-08
+7095,Dr. Lucca Nascimento,Supervisor,Logística,12956.8,2018-09-24
+3919,Juliana Santos,Engenheiro,Financeiro,14644.65,2020-02-06
+2651,Lucca Novaes,Técnico,TI,13662.29,2017-03-22
+1274,Kamilly Mendes,Gerente,TI,2642.49,2019-06-16
+2991,Natália Caldeira,Técnico,Recursos Humanos,7644.01,2018-05-01
+9632,Ana Sophia Aragão,Assistente,Recursos Humanos,7905.17,2018-05-30
+6562,Yasmin Teixeira,Engenheiro,Logística,17689.84,2018-07-14
+4972,Júlia Moura,Técnico,Logística,17101.15,2016-02-20
+8461,Dr. Davi Lucas Sales,Analista,Financeiro,2244.53,2018-07-09
+1396,Milena Viana,Assistente,TI,16122.46,2015-06-05
+9159,Srta. Elisa Dias,Gerente,Financeiro,11762.15,2023-01-04
+3875,Lavínia da Rosa,Gerente,Financeiro,3633.67,2018-06-01
+2591,Igor da Rocha,Técnico,TI,18099.43,2019-07-02
+7593,Diego Rezende,Engenheiro,Engenharia,4271.26,2015-02-08
+2440,João Miguel Aragão,Técnico,TI,12305.71,2018-11-22
+6905,João Pedro Oliveira,Gerente,Financeiro,3542.69,2014-12-23
+5477,Benjamin Fernandes,Assistente,Logística,6824.43,2020-11-18
+5381,Srta. Carolina da Luz,Assistente,Recursos Humanos,4161.38,2024-03-20
+9012,Dra. Ana Lívia Barros,Analista,Financeiro,19374.07,2017-10-17
+4800,Eduardo Porto,Assistente,Vendas,9168.69,2019-12-08
+9123,Ana Moreira,Engenheiro,TI,12603.79,2020-02-26
+5869,Sr. Arthur Souza,Engenheiro,TI,17035.32,2023-11-20
+2698,Antônio Melo,Técnico,Vendas,3882.68,2023-08-16
+2725,Elisa Lopes,Gerente,Recursos Humanos,15448.24,2023-07-25
+5322,Augusto Castro,Analista,Logística,12882.46,2015-09-27
+3694,Dr. Arthur Alves,Assistente,Vendas,8865.06,2022-02-21
+8925,Evelyn Cardoso,Engenheiro,Financeiro,2716.3,2022-02-25
+6416,Sr. Emanuel Rezende,Supervisor,Recursos Humanos,4432.43,2024-06-29
+7133,Lucca Dias,Engenheiro,Engenharia,16788.11,2021-07-14
+8422,Lucas Gabriel da Mota,Analista,Engenharia,10247.7,2018-04-03
+7985,Mariana Carvalho,Analista,TI,14979.76,2023-12-04
+6268,Henrique Moura,Supervisor,Vendas,9761.05,2019-07-21
+1821,Gabriel Cunha,Técnico,Logística,7438.41,2024-05-28
+2213,Davi Rodrigues,Supervisor,Financeiro,14563.27,2017-05-31
+7324,Ana Vitória Santos,Supervisor,Vendas,7509.79,2021-05-21
+3399,Luigi Almeida,Assistente,Recursos Humanos,15366.21,2022-11-30
+4170,Pedro da Cunha,Engenheiro,Logística,7639.84,2023-10-11
+8686,Larissa Vieira,Gerente,Recursos Humanos,4163.36,2016-04-04
+6652,Lívia Farias,Técnico,Vendas,2862.94,2023-12-06
+6145,Sra. Alana Lima,Gerente,TI,11321.3,2024-07-05
+1775,Guilherme Alves,Analista,Engenharia,12303.85,2016-06-14
+2947,Dra. Maria Fernanda Moreira,Assistente,Vendas,9350.52,2024-08-18
+6998,Ana Júlia Costela,Supervisor,Financeiro,14649.33,2016-06-30
+8898,Heitor Correia,Analista,Vendas,17326.94,2020-12-29
+9216,Clarice Novaes,Supervisor,Recursos Humanos,7321.86,2023-09-25
+2945,Emilly Ramos,Engenheiro,Vendas,5711.11,2015-02-02
+5936,Elisa Barbosa,Supervisor,Engenharia,19955.74,2020-09-17
+7256,Alexia Cavalcanti,Analista,Financeiro,10393.55,2022-02-10
+5189,Rebeca Souza,Supervisor,TI,15660.2,2015-08-10
+5961,Enzo Gabriel Caldeira,Gerente,Vendas,18649.55,2024-09-21
+2269,Enzo Gabriel Fernandes,Gerente,Financeiro,3543.07,2023-10-12
+2570,Vitória Nogueira,Analista,TI,11840.41,2020-03-13
+9884,Vicente Viana,Técnico,Recursos Humanos,14611.23,2018-03-25
+3457,Clara Viana,Analista,Recursos Humanos,7337.19,2022-10-04
+2343,Ana Luiza da Mata,Supervisor,TI,19706.55,2019-02-08
+2797,Enzo Gabriel Lima,Gerente,Vendas,17074.29,2020-12-07
+6327,Ryan Caldeira,Técnico,TI,2583.56,2023-02-02
+6889,Emilly Freitas,Gerente,Recursos Humanos,15308.59,2024-08-21
+7965,Sr. Matheus Caldeira,Gerente,TI,8424.67,2020-05-09
+9209,Camila Azevedo,Técnico,Financeiro,6720.14,2022-07-20
+2267,Rafaela Oliveira,Técnico,Engenharia,15120.66,2022-06-23
+7068,Srta. Maria Luiza Cunha,Supervisor,Logística,7678.07,2019-05-18
+3638,Ana Lívia Nunes,Supervisor,Vendas,4649.87,2023-12-02
+1573,Marina Pereira,Supervisor,TI,11482.49,2024-02-19
+5992,Renan Fogaça,Engenheiro,Logística,12846.89,2022-05-07
+2495,Kaique Nascimento,Supervisor,Recursos Humanos,16595.58,2022-04-29
+4012,Bryan Vieira,Assistente,Engenharia,17395.21,2024-03-13
+5930,Maria Barros,Técnico,Financeiro,12570.72,2016-01-29
+6808,Matheus Araújo,Analista,TI,17739.47,2019-12-10
+2930,Srta. Alice Barbosa,Analista,Recursos Humanos,18771.54,2021-10-10
+9189,Clarice das Neves,Assistente,TI,14232.98,2024-05-18
+2804,Maysa Ramos,Engenheiro,Logística,16069.37,2019-11-27
+9083,Srta. Maria Fernandes,Supervisor,TI,5888.02,2024-07-27
+6412,Erick Melo,Analista,Recursos Humanos,16456.65,2015-12-31
+2444,Ana Luiza Cunha,Gerente,Vendas,10853.58,2020-03-31
+2762,Dra. Ana Sophia Cavalcanti,Analista,Engenharia,12736.32,2018-10-15
+3463,Joaquim Teixeira,Gerente,Logística,4196.78,2019-12-14
+1002,Ana Julia Caldeira,Engenheiro,Financeiro,4555.4,2017-10-07
+4461,Esther da Rocha,Supervisor,Recursos Humanos,18079.84,2023-01-16
+8282,Bruno Lopes,Gerente,Engenharia,16226.18,2018-04-05
+5290,Dr. Augusto Rodrigues,Engenheiro,Logística,18219.79,2023-05-02
+5891,Daniel Campos,Assistente,Recursos Humanos,14123.11,2024-07-03
+3857,Lara Jesus,Engenheiro,Engenharia,13663.42,2020-05-21
+3791,Beatriz Cardoso,Supervisor,Financeiro,17306.37,2016-01-08
+3676,Bianca Araújo,Técnico,TI,8583.86,2020-11-16
+1712,Mariane Pires,Analista,Logística,8751.72,2020-08-05
+8775,Maria da Cruz,Gerente,Financeiro,7715.74,2019-07-04
+7105,Dr. Eduardo Vieira,Engenheiro,Engenharia,8120.21,2015-12-25
+9253,Caio Rodrigues,Técnico,Logística,5908.81,2018-07-22
+7517,Giovanna Vieira,Analista,Recursos Humanos,10285.41,2021-05-11
+2390,Caio Moreira,Analista,Financeiro,9681.46,2020-04-18
+7857,Dr. Enzo Santos,Engenheiro,TI,2422.01,2020-05-29
+5831,Sophia Fernandes,Analista,Financeiro,4176.52,2017-07-03
+2790,Srta. Sarah Freitas,Engenheiro,Recursos Humanos,6633.95,2021-09-27
+5331,Kevin Nunes,Gerente,TI,3541.16,2019-02-26
+2094,Guilherme Campos,Analista,Logística,7450.3,2023-05-19
+2625,Sr. Joaquim Silva,Supervisor,Logística,5553.99,2024-06-21
+8475,Alexia Ferreira,Assistente,Recursos Humanos,10737.85,2020-02-24
+6663,Vitória Azevedo,Supervisor,Vendas,14650.42,2015-12-23
+8781,Helena Pereira,Supervisor,Vendas,17209.95,2023-03-27
+9876,Maysa da Mata,Gerente,TI,3337.57,2018-06-17
+9291,Erick Mendes,Assistente,Logística,7862.7,2016-08-17
+8266,Leonardo Pinto,Supervisor,Financeiro,18189.23,2022-02-18
+2900,Elisa Costa,Técnico,Vendas,18369.86,2018-05-20
+2058,Henrique Alves,Engenheiro,Engenharia,5782.51,2022-12-21
+1537,Luiz Otávio Rodrigues,Gerente,Engenharia,13827.43,2024-09-23
+2722,João Gabriel Porto,Supervisor,Engenharia,19538.79,2020-05-07
+9833,Juliana Aragão,Supervisor,Vendas,9944.38,2019-06-18
+7998,Luiz Fernando da Conceição,Analista,Vendas,7198.06,2018-06-09
+1678,Yago Correia,Engenheiro,TI,14346.95,2015-03-22
+9285,Sr. Benício Correia,Gerente,TI,16682.46,2023-03-24
+6926,Manuela Vieira,Analista,Vendas,2314.02,2021-01-12
+6041,Sra. Mariana Cardoso,Analista,Recursos Humanos,14705.26,2023-05-12
+8387,Sabrina Freitas,Analista,Logística,6895.8,2017-06-14
+2918,Daniel Alves,Assistente,Logística,9172.92,2018-03-02
+5022,Laura Mendes,Gerente,TI,11350.13,2020-05-31
+1170,Fernando Fernandes,Gerente,Vendas,10074.34,2017-02-05
+2162,Diogo Gonçalves,Gerente,Engenharia,9216.84,2016-05-06
+2465,Mariana Pereira,Analista,TI,7997.7,2021-06-14
+1375,Francisco Almeida,Engenheiro,Logística,2066.65,2016-03-21
+1659,Amanda Vieira,Engenheiro,Engenharia,6406.24,2019-06-24
+5442,Bernardo Cavalcanti,Analista,Financeiro,3047.61,2022-02-06
+9991,Ana Julia Duarte,Engenheiro,Financeiro,11633.57,2016-01-04
+8349,Ryan da Paz,Engenheiro,Logística,12059.32,2015-05-21
+6388,Luiza Barros,Engenheiro,Financeiro,4351.93,2021-11-26
+9871,Kamilly Pereira,Gerente,Logística,8634.44,2017-05-24
+6363,Rafaela Silva,Engenheiro,Recursos Humanos,12474.9,2020-09-08
+9276,Luiz Miguel Lima,Analista,TI,2446.58,2020-11-09
+5028,Yago Ribeiro,Assistente,TI,19674.8,2021-02-24
+5531,Enrico Costela,Técnico,Financeiro,7395.66,2020-12-17
+6218,Srta. Isis Dias,Analista,Vendas,17264.71,2018-08-07
+8819,Yasmin Dias,Gerente,Vendas,12907.04,2017-12-19
+5509,Dra. Esther Dias,Supervisor,TI,14568.8,2018-12-06
+8378,Sr. Pedro Miguel Rocha,Supervisor,Vendas,18618.77,2016-05-23
+4995,Kamilly Costela,Técnico,Recursos Humanos,5222.9,2023-10-19
+7664,Vitor Ramos,Engenheiro,Recursos Humanos,14621.38,2018-12-18
+8332,Bárbara Ramos,Supervisor,TI,11560.0,2016-09-05
+2909,Pedro Lucas Fernandes,Gerente,Recursos Humanos,18274.06,2023-10-12
+4973,Luiza Monteiro,Supervisor,Recursos Humanos,8122.44,2021-04-25
+7198,Davi Luiz Campos,Técnico,Logística,2532.98,2016-12-09
+3019,Carlos Eduardo Nascimento,Supervisor,Engenharia,13473.78,2020-10-02
+3201,Maria Luiza Fogaça,Engenheiro,Vendas,5722.67,2024-03-12
+5828,Lucas da Cunha,Gerente,Vendas,5128.47,2020-10-20
+5791,Srta. Sofia Barros,Gerente,TI,16974.89,2020-01-08
+7136,Emanuelly Fernandes,Técnico,Vendas,14138.7,2024-07-18
+9397,Ana Júlia Vieira,Engenheiro,TI,7322.58,2022-09-17
+2840,Dra. Alice Silveira,Supervisor,Financeiro,19066.48,2017-01-18
+2544,Mirella Ramos,Engenheiro,Vendas,9629.54,2021-08-17
+6937,Luigi Moraes,Engenheiro,Recursos Humanos,2674.84,2022-04-24
+5281,Caroline Freitas,Técnico,TI,14796.41,2015-12-01
+7574,Eloah Gonçalves,Técnico,Recursos Humanos,8307.89,2022-09-10
+8986,Maria Sophia Campos,Analista,Recursos Humanos,12435.1,2019-06-25
+6255,Henrique Costa,Técnico,Engenharia,6605.82,2023-12-24
+9314,Maysa Moraes,Assistente,Logística,9826.6,2024-10-28
+5032,Sr. Enrico Castro,Engenheiro,TI,10852.78,2023-02-14
+8664,Sophie Fogaça,Analista,Engenharia,3363.7,2020-03-23
+3081,Dr. João Pedro Jesus,Supervisor,Vendas,7688.88,2021-08-18
+2216,Leandro Correia,Assistente,Engenharia,2475.24,2023-11-30
+5365,Dr. Theo Melo,Supervisor,TI,3420.08,2021-01-03
+8734,Valentina Costa,Analista,Engenharia,10185.46,2024-09-28
+1823,Maria Alice da Cunha,Assistente,TI,6262.59,2015-12-31
+9422,Dr. Yuri Farias,Gerente,Logística,10575.73,2022-01-21
+5003,Maria Fernanda Cardoso,Técnico,TI,10730.7,2024-08-05
+4110,Enzo da Cruz,Supervisor,Recursos Humanos,15395.3,2015-06-30
+2618,Diego Dias,Engenheiro,Recursos Humanos,6151.28,2019-10-17
+4709,Sra. Esther Teixeira,Assistente,Recursos Humanos,16259.28,2021-06-09
+6597,Sr. Vicente Moura,Assistente,Logística,3610.49,2018-11-12
+8976,Raquel Freitas,Supervisor,Vendas,5618.69,2017-07-08
+3131,Matheus Farias,Técnico,Engenharia,8015.35,2017-12-15
+1723,André Melo,Técnico,Engenharia,19780.78,2019-02-24
+8520,Pietra Moura,Supervisor,Logística,17811.03,2018-07-27
+1593,Henrique Lima,Supervisor,Vendas,10941.07,2021-08-10
+2818,Sr. Ryan Pires,Técnico,Vendas,3473.76,2018-09-04
+1578,Srta. Giovanna da Rocha,Assistente,Engenharia,6866.55,2019-03-15
+1895,Eloah Mendes,Técnico,Engenharia,6746.19,2016-04-25
+8172,Luiza Campos,Gerente,Logística,5550.17,2022-07-01
+9048,Guilherme Teixeira,Gerente,Financeiro,16407.96,2018-01-18
+9100,Dra. Lorena Pereira,Gerente,Recursos Humanos,3769.84,2015-04-23
+3616,Cecília da Conceição,Analista,Recursos Humanos,17797.17,2017-08-27
+4736,Ana Luiza da Luz,Gerente,Vendas,8264.14,2023-04-08
+9716,Enrico Porto,Gerente,Logística,3046.26,2021-12-04
+6950,Luiz Fernando Ferreira,Supervisor,Recursos Humanos,18730.55,2020-04-23
+4018,Cecília Nunes,Técnico,Financeiro,10838.69,2016-05-24
+8151,Clarice das Neves,Gerente,TI,4115.11,2016-08-23
+3380,Sra. Agatha da Mota,Engenheiro,TI,13645.61,2018-08-17
+2666,Henrique Fogaça,Engenheiro,Recursos Humanos,3337.63,2021-04-15
+4492,Henrique Moreira,Técnico,Recursos Humanos,19889.82,2017-07-08
+8749,Sarah Teixeira,Supervisor,Recursos Humanos,7069.24,2017-12-07
+6609,Srta. Joana Rezende,Gerente,Vendas,4062.16,2017-08-17
+1077,Ana Melo,Gerente,Logística,17760.99,2015-07-01
+4335,Raul Carvalho,Técnico,Vendas,11152.65,2024-04-17
+4990,Sra. Valentina Fogaça,Supervisor,Vendas,5026.47,2021-04-23
+5845,Isadora Martins,Assistente,Financeiro,8821.66,2020-05-04
+9721,Sra. Clarice Moreira,Técnico,Financeiro,6097.55,2021-07-20
+5241,Alexia Nunes,Engenheiro,Financeiro,18574.21,2019-03-29
+4036,Dr. Enzo Gabriel Mendes,Gerente,Logística,19865.18,2021-07-16
+6914,Fernanda Cardoso,Supervisor,Recursos Humanos,2450.81,2018-03-09
+7949,Rebeca Silva,Supervisor,Financeiro,16246.59,2022-07-27
+5069,Luiz Gustavo Teixeira,Analista,TI,2447.87,2017-11-25
+7786,Luna Barros,Gerente,Vendas,4525.52,2020-05-11
+4093,Juliana Viana,Gerente,TI,9163.3,2022-09-04
+6084,Ana Cardoso,Analista,Logística,19357.38,2017-03-16
+3819,Nina Porto,Engenheiro,Recursos Humanos,3892.82,2019-10-05
+6131,Evelyn Aragão,Gerente,TI,8041.6,2024-01-06
+3330,Bruna da Luz,Supervisor,TI,3746.55,2024-01-12
+2273,Maria Julia Santos,Supervisor,TI,12637.6,2015-08-14
+7037,Sr. Davi Oliveira,Analista,Vendas,7891.85,2022-11-23
+9319,Julia Almeida,Analista,Financeiro,8202.73,2021-11-30
+7553,Matheus Gonçalves,Gerente,Vendas,17751.41,2023-11-17
+4611,Sra. Mariana Carvalho,Gerente,Financeiro,7005.54,2017-05-07
+4610,Srta. Daniela Gomes,Gerente,Engenharia,7294.66,2018-09-01
+7436,João Alves,Supervisor,Engenharia,15024.36,2018-08-14
+7581,André da Mata,Assistente,Logística,14800.3,2017-12-04
+9251,Maria Sophia Pires,Assistente,Logística,16447.54,2020-09-08
+2957,Isabel Cardoso,Técnico,Logística,9840.75,2015-06-09
+9237,Cauê Silveira,Técnico,Engenharia,14506.87,2015-12-12
+1232,Kevin Sales,Técnico,Engenharia,3410.48,2019-05-30
+8429,João Gabriel Sales,Técnico,Logística,3550.0,2016-06-27
+8195,Mirella da Rosa,Assistente,TI,14881.39,2018-07-25
+5401,Nicolas Sales,Analista,Recursos Humanos,14939.52,2019-07-07
+8921,Nicolas Teixeira,Analista,Engenharia,5587.52,2021-02-23
+2569,Laís Rezende,Assistente,Vendas,8303.31,2019-02-24
+5244,Bruna Souza,Técnico,Engenharia,8953.36,2023-10-28
+2829,Dra. Alice Almeida,Supervisor,Financeiro,11512.66,2022-03-15
+5455,Dra. Mariane Cunha,Supervisor,Recursos Humanos,16716.76,2016-10-11
+3907,Sarah Cardoso,Analista,Engenharia,9189.37,2017-12-21
+8197,Alana Mendes,Supervisor,Vendas,13375.71,2020-08-11
+2940,André Correia,Assistente,Logística,12142.7,2016-10-04
+7021,João Gabriel Nunes,Engenheiro,Engenharia,9712.95,2019-10-07
+4444,Luiz Henrique Souza,Engenheiro,Logística,9884.38,2024-09-23
+4606,Stella das Neves,Assistente,Engenharia,4999.87,2019-11-09
+5426,Dr. Otávio Cardoso,Gerente,Engenharia,10852.9,2022-07-06
+1245,Luiz Felipe Cavalcanti,Engenheiro,Engenharia,5503.54,2024-04-19
+3606,Pedro Lucas da Paz,Assistente,Engenharia,16761.08,2017-12-30
+3549,Maysa Carvalho,Supervisor,TI,4370.12,2022-02-24
+8757,Luiz Fernando Santos,Supervisor,Logística,3047.31,2017-10-19
+6495,Sra. Catarina Souza,Supervisor,Logística,10138.49,2021-07-30
+6886,Carolina Sales,Analista,Recursos Humanos,6240.35,2018-07-10
+4257,Joaquim da Mota,Assistente,Recursos Humanos,5611.29,2020-09-27
+4523,Rebeca da Mota,Engenheiro,TI,4134.16,2015-08-10
+6558,Calebe Gonçalves,Supervisor,Logística,7035.44,2024-12-02
+6616,Natália Cavalcanti,Assistente,Financeiro,11350.84,2019-02-11
+4597,Isis das Neves,Gerente,Recursos Humanos,18267.88,2022-04-19
+2158,Daniel Mendes,Supervisor,Engenharia,16067.15,2018-12-29
+5591,Benjamin da Rocha,Gerente,Engenharia,16663.77,2019-08-14
+3041,Sophie Rodrigues,Assistente,Engenharia,14844.51,2023-06-01
+7220,Srta. Olivia da Luz,Gerente,Financeiro,9383.47,2018-11-07
+2017,Lavínia da Mata,Engenheiro,Logística,15764.02,2016-04-14
+4661,Srta. Giovanna Vieira,Assistente,Financeiro,17776.81,2022-11-06
+2127,Fernando da Cruz,Engenheiro,Logística,11655.67,2020-09-13
+6552,Fernando da Cunha,Assistente,Engenharia,7206.19,2018-07-06
+2590,Maria Vitória Campos,Assistente,Financeiro,19519.76,2022-12-17
+6125,Srta. Sofia Cardoso,Gerente,Recursos Humanos,8048.22,2024-09-10
+9105,Enrico Pinto,Gerente,Financeiro,13148.65,2020-02-11
+3770,Isadora Aragão,Gerente,Engenharia,12508.18,2016-02-27
+7038,Alice Ramos,Supervisor,Vendas,10815.42,2021-04-17
+6429,Enrico Cardoso,Assistente,Logística,15859.12,2015-04-01
+6815,Sr. João Guilherme Duarte,Técnico,Financeiro,19987.93,2021-07-20
+1878,Dr. Gabriel Mendes,Supervisor,Recursos Humanos,18540.45,2024-01-11
+5042,Luiz Fernando Viana,Assistente,Vendas,14115.94,2023-05-06
+8065,Thales Duarte,Assistente,Logística,14990.22,2023-09-06
+3727,Ana Laura Rodrigues,Técnico,Logística,15892.19,2015-07-27
+9326,Gustavo Viana,Técnico,Logística,12627.54,2019-01-17
+4847,Samuel Jesus,Analista,TI,7814.68,2018-04-26
+6657,Maria Vitória Moreira,Engenheiro,Financeiro,8702.85,2024-11-07
+3116,Dra. Sabrina Rezende,Engenheiro,Financeiro,14669.48,2020-10-11
+4880,Daniel Gomes,Gerente,Logística,2058.35,2017-12-28
+1326,Antônio Costa,Técnico,TI,7442.51,2017-12-16
+6932,Diogo Silva,Engenheiro,Recursos Humanos,9688.83,2021-01-01
+7149,Pedro Lucas Silveira,Assistente,TI,9795.04,2022-05-05
+9880,Ana Sophia Viana,Gerente,Financeiro,7193.43,2023-01-06
+5176,Ryan da Mota,Engenheiro,Logística,13334.45,2024-11-02
+4502,Sra. Ana Lívia Ribeiro,Analista,TI,17949.37,2019-12-24
+4303,Francisco da Luz,Assistente,Logística,6469.42,2018-10-27
+8337,Ana Clara Carvalho,Gerente,Financeiro,8207.44,2024-04-19
+9999,Otávio Cardoso,Analista,Engenharia,13750.68,2022-06-27
+1290,Emanuel Oliveira,Gerente,TI,4523.84,2018-05-30
+2902,Maria Eduarda Pereira,Técnico,Financeiro,8944.92,2019-01-12
+6733,Benício Fernandes,Analista,Engenharia,17954.44,2016-05-07
+5221,Henrique Cunha,Técnico,Vendas,13649.81,2015-09-04
+7880,Olivia Nogueira,Técnico,Financeiro,6357.92,2015-01-09
+8481,Eloah Gomes,Supervisor,TI,7770.47,2016-11-13
+1404,Srta. Lorena Gonçalves,Analista,Engenharia,2606.36,2018-10-01
+3591,Camila Cardoso,Supervisor,Financeiro,6645.27,2023-04-06
+6451,Enzo Gabriel da Costa,Assistente,Recursos Humanos,8332.3,2023-05-16
+8721,Ana Vitória Silva,Analista,TI,11429.4,2018-05-29
+1897,Lorenzo Gonçalves,Analista,Engenharia,5719.29,2018-07-25
+2418,Emanuelly Sales,Técnico,Financeiro,13725.22,2016-12-22
+3523,Danilo Rocha,Supervisor,Engenharia,7899.45,2018-09-01
+5762,Noah da Cunha,Gerente,Recursos Humanos,9510.23,2018-07-06
+3300,Heitor Martins,Assistente,Engenharia,6744.53,2024-07-22
+2876,Rebeca Melo,Supervisor,Financeiro,18862.71,2023-01-17
+6832,João Miguel da Rocha,Gerente,Financeiro,15109.11,2019-09-09
+9506,Vitor Hugo Sales,Técnico,Vendas,14643.75,2020-01-24
+8202,Dr. Theo Monteiro,Analista,Logística,19349.22,2022-05-21
+2603,Stephany da Conceição,Engenheiro,Recursos Humanos,15617.63,2022-08-11
+7935,Mariana Peixoto,Assistente,Logística,2103.13,2022-06-01
+9363,Bernardo Rodrigues,Supervisor,Vendas,19123.82,2021-09-04
+1720,Letícia Carvalho,Supervisor,Logística,10439.35,2023-03-18
+9815,Gustavo Lopes,Supervisor,Engenharia,4860.13,2019-12-01
+8080,Guilherme Barros,Assistente,Recursos Humanos,9690.23,2022-03-06
+4077,Stephany Costela,Engenheiro,Vendas,19397.94,2017-10-10
+6028,Isis Moraes,Analista,Engenharia,15208.06,2016-05-02
+3746,Isabel Monteiro,Assistente,Financeiro,15671.61,2023-12-05
+6212,Isabella Nogueira,Técnico,Engenharia,16453.1,2017-08-14
+1108,Eduarda Rezende,Analista,Engenharia,16785.28,2019-02-13
+5107,Dr. Thiago Santos,Gerente,Financeiro,2526.34,2020-07-06
+3452,Sra. Isadora da Rosa,Engenheiro,Recursos Humanos,8426.24,2022-11-22
+3840,Ana Beatriz Lima,Técnico,Vendas,16124.56,2024-03-04
+4000,Maria Julia da Cunha,Técnico,Financeiro,17217.77,2018-08-09
+9229,Daniel da Cruz,Analista,Logística,17941.57,2020-06-21
+3767,Esther Novaes,Analista,Vendas,9395.43,2021-08-16
+2953,Joaquim Oliveira,Engenheiro,Engenharia,10577.74,2024-03-02
+6272,Thiago Pinto,Assistente,Recursos Humanos,6449.57,2018-08-24
+6193,Sra. Amanda Farias,Engenheiro,TI,17302.01,2024-06-15
+1734,Gabriel Caldeira,Supervisor,Financeiro,16295.0,2017-02-25
+2338,Dr. Otávio da Costa,Assistente,TI,3913.44,2022-08-12
+1918,Luiz Miguel Costa,Engenheiro,TI,11219.44,2020-01-06
+4796,Luiz Felipe da Conceição,Assistente,Engenharia,13287.21,2017-11-07
+5138,Giovanna Melo,Supervisor,Recursos Humanos,11435.82,2022-12-22
+1861,Olivia Teixeira,Supervisor,Engenharia,14198.84,2022-01-25
+9796,Esther Costa,Supervisor,Logística,5965.69,2015-06-13
+3728,Luiz Felipe Silva,Técnico,Vendas,6557.52,2023-06-01
+7660,Antônio da Costa,Gerente,TI,10750.69,2024-11-04
+2707,Maria Rezende,Técnico,Logística,18387.82,2016-08-10
+4402,Kaique Peixoto,Gerente,Vendas,18195.03,2017-06-01
+7228,Maria Eduarda Souza,Engenheiro,Vendas,17319.76,2023-02-24
+6493,Marina Santos,Supervisor,Recursos Humanos,13658.92,2018-12-15
+5901,Ana Vitória Jesus,Supervisor,Recursos Humanos,3333.42,2024-01-23
+5772,Dr. Gustavo Henrique da Cunha,Assistente,Engenharia,9705.37,2021-10-03
+7475,Danilo Farias,Gerente,Logística,12804.29,2018-09-09
+5721,Helena Caldeira,Analista,Engenharia,5722.84,2019-08-09
+6289,Alice Costela,Gerente,TI,16166.37,2019-01-21
+7782,Davi Lucas Azevedo,Engenheiro,TI,4277.59,2018-03-24
+1796,Ian Almeida,Supervisor,Logística,9028.34,2017-07-17
+3492,Carolina Costa,Assistente,Logística,17224.6,2015-07-28
+4276,Vitória da Cunha,Gerente,TI,18675.21,2021-07-18
+5998,João Guilherme Pires,Analista,TI,8070.2,2016-03-09
+8460,Rodrigo Carvalho,Técnico,Recursos Humanos,6886.7,2020-05-21
+1994,Arthur Cunha,Engenheiro,Recursos Humanos,13926.45,2022-01-08
+9057,Henrique Rodrigues,Engenheiro,Engenharia,3317.79,2020-11-04
+8319,Benício Rodrigues,Engenheiro,Engenharia,17442.75,2022-11-08
+2660,Gabriela Barros,Técnico,Recursos Humanos,16069.67,2016-09-18
+1713,Alana Lima,Engenheiro,Engenharia,10441.71,2017-11-16
+9298,Sarah Costa,Técnico,Vendas,6906.94,2017-01-01
+1019,Ana Castro,Analista,TI,19109.28,2022-06-28
+2983,Gabriela Barbosa,Técnico,Engenharia,17974.98,2019-08-08
+6686,Bárbara Rezende,Técnico,TI,19081.2,2018-12-24
